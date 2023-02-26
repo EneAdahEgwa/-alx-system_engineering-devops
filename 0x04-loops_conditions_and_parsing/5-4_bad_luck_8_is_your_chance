@@ -13,4 +13,4 @@ while [ $i -lt 10 ]; do
 	echo "codingschool School"
       fi
       i=$((i+1))
-don
+done

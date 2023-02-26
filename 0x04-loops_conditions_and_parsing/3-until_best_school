@@ -6,4 +6,4 @@ until [ $COUNT -gt 9 ]
 do
 	echo "Best School"
 	COUNT=$(( COUNT + 1 ))
-don
+done

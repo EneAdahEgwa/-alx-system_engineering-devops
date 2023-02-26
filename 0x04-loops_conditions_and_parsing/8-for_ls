@@ -3,4 +3,4 @@
 DIR=$(ls)
 for file in $DIR; do
     echo "$file" | cut -d "-" -f2
-don
+done

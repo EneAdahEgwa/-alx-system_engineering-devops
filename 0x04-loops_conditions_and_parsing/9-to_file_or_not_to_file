@@ -13,4 +13,4 @@ if [ -e "codingschoolschool" ]; then
    fi
 else
    echo "codingschoolschool file does not exist"
-f
+fi
