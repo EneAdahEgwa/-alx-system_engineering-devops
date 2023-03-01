@@ -2,4 +2,4 @@
 # Displays listening ports:
 # only listening sockets with PID and name of program
 # to which each socket belongs to
-netstat -l
+netstat -lp
